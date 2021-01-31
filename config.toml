@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://berns-portfolio.netlify.app/"
 languageCode = "en-us"
 title = "Liva | Personal blog template"
 theme = "liva"

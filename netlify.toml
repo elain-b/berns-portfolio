@@ -1,7 +1,7 @@
 [build]
 publish = “public”
 command = "hugo --theme=liva --buildDrafts --gc --minify"
-  
+
 [context.production.environment]
 HUGO_VERSION = "0.80.0"
 HUGO_ENV = "production"
